@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  docker-registry:
+  - apiVersion: v1
+    appVersion: 2.7.1
+    created: "2021-09-16T02:28:23.51702459Z"
+    deprecated: true
+    description: DEPRECATED A Helm chart for Docker Registry
+    digest: 81f4e6c46e816a7da8b49447390d76e2afb14f2d8924e9101b8cad52790bf6ff
+    home: https://hub.docker.com/_/registry/
+    icon: https://hub.docker.com/public/images/logos/mini-logo.svg
+    name: docker-registry
+    sources:
+    - https://github.com/docker/distribution-library-image
+    urls:
+    - https://github.com/johnbaker/helm-charts/releases/download/docker-registry-1.9.6/docker-registry-1.9.6.tgz
+    version: 1.9.6
+generated: "2021-09-16T02:28:23.302851746Z"
