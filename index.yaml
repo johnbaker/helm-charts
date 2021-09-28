@@ -15,4 +15,17 @@ entries:
     urls:
     - https://github.com/johnbaker/helm-charts/releases/download/docker-registry-1.9.6/docker-registry-1.9.6.tgz
     version: 1.9.6
+  mosquitto:
+  - apiVersion: v2
+    appVersion: 1.6.12
+    created: "2021-09-28T02:15:13.985781245Z"
+    description: A Helm chart packaging Mosquitto
+    digest: b14f20e4b75496172019ba5fd1d439c0ea289eae074938eab338b941337e855c
+    home: https://github.com/NaPs/helm-charts/tree/master/charts/mosquitto
+    icon: https://mosquitto.org/images/mosquitto-text-side-28.png
+    name: mosquitto
+    type: application
+    urls:
+    - https://github.com/johnbaker/helm-charts/releases/download/mosquitto-1.0.6/mosquitto-1.0.6.tgz
+    version: 1.0.6
 generated: "2021-09-16T02:28:23.302851746Z"
